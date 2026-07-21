@@ -19,13 +19,13 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0317_000-X.yaml, hash: 'sha256:a7bf411183df65284360c8323769a7cf8aecac1aa87938010ff31e5526023a03'}
+  - {seq: 0, filename: KR6i0317_000-X.yaml, hash: 'sha256:0661d5d790f5324cb8bab33ee595219547fb74f7c38f2f9195a0917b634730f1'}
   - {seq: 1, filename: KR6i0317_001-X.yaml, hash: 'sha256:0b124571ea1295721dac10937150989348bfbe338a5b97bf8d5acb76a09eb0a7'}
   - {seq: 2, filename: KR6i0317_002-X.yaml, hash: 'sha256:8685d0993807065425d27e9847cd75dda7efc2ec1e378507ca40edf119396c72'}
   - {seq: 3, filename: KR6i0317_003-X.yaml, hash: 'sha256:be27176626ae91822f02b562b87b866d43bc993a922192e78bc71dd3a3fbd944'}
   - {seq: 4, filename: KR6i0317_004-X.yaml, hash: 'sha256:37f85d7d4f50cfe02e5615cc8dc76a6623124955b66a89834c2fb90f8383e9bc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0317_000-X.markers.yaml, hash: 'sha256:d3eb231cb5c0e492777292c9d3ba1bb4ba69e22d9f14808f78ea1b8b5c9b03c0'}
+  - {seq: 0, role: markers, filename: assets/KR6i0317_000-X.markers.yaml, hash: 'sha256:b2ef96b39e6de4210a7ba1bf06567334d78e035563527e2cbdba3f315addba43'}
   - {seq: 1, role: markers, filename: assets/KR6i0317_001-X.markers.yaml, hash: 'sha256:1444324903a587cf722aaf4d6f3dd5b24e322b52e8f102d446c7176c7d86b221'}
   - {seq: 2, role: markers, filename: assets/KR6i0317_002-X.markers.yaml, hash: 'sha256:dbbc650a5a98b8efd9ecacbfc00e66765afe695e56b9852720a6c0257e3e0924'}
   - {seq: 3, role: markers, filename: assets/KR6i0317_003-X.markers.yaml, hash: 'sha256:3df85c502ea0e203535642d001f3261a4895e37a53d796284708fc4163f2de6c'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0317_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 362-A 金光明經科註敘
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0317_X_000-mulu-2
     span:
-    - front
+    - body
     - 363
     - 363
   label: 金光明經科註目次
@@ -561,4 +561,4 @@ table_of_contents:
   label: 光明入室
   type: mulu
   level: 1
-hash: sha256:ea7183213b1fbb5fe8371810ae15b7d3734c2c053cd404309f6b26bd80ef55c7
+hash: sha256:575253bc21bca01b214436d9f0d83853d976e1e12dd3efbd304fb9ff553dd5a7
